@@ -1,47 +1,46 @@
-# User Documentation
+# EZnews - AI Powered News Summarizer
+## Overview
+Built as a student project, EZ News is a front-end web application that fetches real-time news and uses AI to generate concise summaries of each article.
+## Features
+### Homepage
+- Displays the **EZ news** label at the upper left hand corner
+- Includes **Contact** and **About Us** buttons with modul popups.
 
-## Features of our Homepage
-#### Contact and About Us
-On entering our homepage you can see the EZ news label on the upper left hand corner and following it are the Contact and About Us buttons.
-When Contact is clicked by the user a pop-up appears 
 <img width="1440" alt="Screenshot 2023-12-13 at 10 38 21 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/e6b53c5b-721c-4a87-bdcf-f3c0f81f4fe4">
 
-About Us when clicked also presents another distinct pop-up.
+
 
 <img width="1440" alt="Screenshot 2023-12-13 at 10 40 06 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/2c17541e-21b4-43f8-98c9-2cb9d25475e6">
 
-#### Login, Logout, and Signup 
-On the side of the webpage are the login, logout, and signup buttons. Login and Signup when clicked pop up their own email and password field so that the user can input their information.
+### Authentication
+- Users can **Login**, **Logout**, or **Sign Up**  
+- Login/Signup modals include input fields for email and password  
+
 
 <img width="267" alt="Screenshot 2023-12-13 at 10 44 50 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/005ca6ba-e701-4a6d-92d1-89525fbf7fdc">
 
-#### Recent News
-The main focus of our webpage is the Recent News feature. This feature displays recent news article headlines that indicate when they are being hovered on but not yet clicked.
+### Recent News Display
+- Shows real-time headlines from a news API  
+- Headlines highlight on hover  
+- Clicking a headline reveals an **AI-generated summary**  
 <img width="1440" alt="Screenshot 2023-12-13 at 10 51 02 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/f3b3c26d-8959-470c-af5b-109cf0295567">
 
-After an article has been clicked on an AI generated summary of the article will appear below the headline.
+
 
 <img width="1440" alt="Screenshot 2023-12-13 at 10 52 14 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/99364909-26d2-4ea9-a757-e347d5907c1b">
 
-#### URL
-If a user wants to instead read the full article instead of the summary a URL link is provided in the headline that takes the user straight to the news article.
-URL after being clicked by user. 
+### Read Full Article
+- Each article contains a URL link to the full source
 <img width="1440" alt="Screenshot 2023-12-13 at 10 55 01 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/200ae5f0-05e7-43b4-a796-1859400591cd">
 
-#### Footer
-We have a small footer at the bottom of our website that adjusts to the changing lengths of the article summaries
-
-#### Compressed website 
-As the website becomes compressed, by making the browser smaller, eventually a small drop down menu symbol will appear on the top right of the webpage. When clicked it will display the Contact and About Us buttons when they are hovered on by the user.
-
-#### Drop Down 
+### Responsive design
+- Fully responsive for different screen sizes
+- On smaller screens, a **dropdown menu** appears with key nav buttons  
 
 <img width="647" alt="Screenshot 2023-12-13 at 10 57 20 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/7ca65eb6-3098-46e5-8cf8-596f2eaf7d7e">
 
-
-#### Contact button being hovered on
-
-<img width="650" alt="Screenshot 2023-12-13 at 10 59 56 PM" src="https://github.com/matitesfu27/412_Project_actual/assets/124101856/c1c14921-dd37-4114-b539-64c12442d8b1">
+## Status
+**Complete** (for academic use). No live deployment but fully functional as a local demo.
 
 
 
