@@ -1,8 +1,4 @@
 # User Documentation
-## Accessing EZ News Homepage <br>
-First, make sure that you have a device connected to the internet.<br>
-In the preferred browser of your choosing, click 
-[here](http://127.0.0.1:5500/dist/index.html) to be taken to our homepage!
 
 ## Features of our Homepage
 #### Contact and About Us
